@@ -1,0 +1,4 @@
+= Proposal Process
+
+Before a network upgrade proposal is put to a vote, it is first deployed on the Goerli testnet for 1 day. This allows the community to test and evaluate the upgrade before voting.
+After this period, if the deployment is deemed viable, a 5-day voting window commences. If a majority votes are in favor of the proposal, Starknet's mainnet will be upgraded accordingly.

@@ -1,0 +1,9 @@
+= Token-based Governance
+
+The STRK token represents voting power in Starknet's governance process. The total voting power is distributed among different stakeholders, as follows:
+
+    * 1.7 billion tokens: Investors
+    * 1.7 billion tokens: Core-contributors (excluding StarkWare)
+    * 1.7 billion tokens: Foundation
+    * 500M to delegates
+    * 1.2b to builders council

@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/node_modules/
+.idea
+.DS_Store
+ui/supplemental_ui
+public_html/

@@ -1,0 +1,7 @@
+// Introduction
+* xref:introduction.adoc[Introduction]
+* xref:phases.adoc[Goverance Phases]
+* xref:token-based-governance.adoc[Token-based goverance]
+* xref:delegation.adoc[Delegation]
+* xref:builders-council.adoc[Builder's council]
+* xref:proposal-process.adoc[Proposal process]

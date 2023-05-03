@@ -1,0 +1,3 @@
+= Introduction
+
+This documentation provides an overview of the governance process for Starknet, including non-voting governance, current scope of token-based governance, the current proposal process, and other information.
