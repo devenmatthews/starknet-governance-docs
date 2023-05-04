@@ -1,0 +1,43 @@
+site:
+  title: Starknet governance documentation
+  # url: https://gov.starknet.io/
+  start_page: documentation::index.adoc
+  keys:
+    google_analytics: ''
+urls:
+  html_extension_style: indexify
+
+content:
+  sources:
+    - url: .
+      branches:
+        - 'HEAD'
+      start_paths:
+        - components/governance
+
+ui:
+  bundle:
+    url: ./ui/build/ui-bundle.zip
+    snapshot: true
+
+asciidoc:
+  extensions:
+    - '@asciidoctor/tabs'
+  attributes:
+    idprefix: ''
+    #stem: '@'
+    stem: 'latexmath'
+    page-pagination: ''
+    experimental: ''
+
+antora:
+  extensions:
+  - require: './lunr-tokenizer'
+  - require: '@antora/lunr-extension'
+    index_latest_only: true
+
+output:
+  destinations:
+  - provider: fs
+    path: ./public_html/
+    clean: true

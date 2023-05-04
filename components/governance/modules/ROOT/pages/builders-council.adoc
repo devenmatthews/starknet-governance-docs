@@ -1,0 +1,3 @@
+= Builder's Council
+
+The Foundation has also delegated 1.2 billion tokens to the Builder's Council. This council consists of key contributors and builders within the Starknet ecosystem. They play a crucial role in assessing proposals, ensuring that they align with the network's long-term vision and development. Read the Builders council mandate (link)

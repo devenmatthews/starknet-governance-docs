@@ -1,0 +1,9 @@
+= Delegation
+
+Becoming a delegate is a permissionless process. Please post your profile on the community forum thread (link) as well as on the starknet delegate discovery page (link).
+
+Starknet Governance Committee is tasked with creating a healthy delegate ecosystem. The goal can be viewed in the delegate onboarding announcement(link)
+
+Token-holders are welcome to delegate to any address.
+
+The Foundation has delegated 500 million tokens to over 80 delegates selected from the delegate pool. These delegates participate in the decision-making process by voting on proposals and representing the interests of the community.

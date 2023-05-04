@@ -1,0 +1,9 @@
+= Governance Phases
+
+Starknet's governance is currently in Phase 1. This phase is characterized by off-chain token-based governance approving Starknet mainnet upgrades.
+
+During this phase, StarkWare will upgrade the network according the the results of the vote.
+
+Phase 2 will transition governance onchain to Starknet mainnet.
+
+This phase will explore a technical roadmap for handing over L1 contract control to governance for further security and decentralization.

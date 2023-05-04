@@ -1,0 +1,30 @@
+<header class="header">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <div class="top-logo">
+        <a href="{{{or siteRootPath site.url}}}" class="starknet-logo"></a>
+        <div class="vertical-divider desktop-only"></div>
+        <a href="{{{or siteRootPath site.url}}}" class="docs-logo desktop-only"></a>
+      </div>
+      <!--<a class="navbar-item" href="{{{or site.url siteRootPath}}}">{{site.title}}</a>-->
+      <div class="header-right">
+        <div class="theme-toggle-container mobile-only">
+          <button onclick="switch_style('toggle')" id="theme-toggle" class="theme-toggle"></button>
+        </div>
+        <button class="navbar-burger" data-target="topbar-nav">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <div class="theme-toggle-container">
+          <button onclick="switch_style('toggle')" id="theme-toggle" class="theme-toggle navbar-item"></button>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
